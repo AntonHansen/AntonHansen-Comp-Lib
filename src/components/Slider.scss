@@ -1,0 +1,8 @@
+#slider-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.dots:first-child {
+	display: none;
+}
