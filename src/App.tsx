@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Slider from './components/Slider';
+import Slider from './components/Slider/Slider';
 import './App.css';
 
 function App() {
